@@ -63,9 +63,9 @@ python game.py
 - If sound files don't play, confirm the files exist in `SFX/` and your system audio is available.
 
 **Credits & License**
-- Author: Mohamed (project workspace)
+- Author: Mohamed Rida
 - Sounds and images included in `img/` and `SFX/` (ensure you have the rights to redistribute if publishing).
-- License: add your preferred license or state "All rights reserved".
+- License: All rights reserved.
 
 
  
