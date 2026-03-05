@@ -64,7 +64,7 @@ python game.py
 
 **Credits & License**
 - Author: Mohamed Rida
-- Sounds and images included in `img/` and `SFX/` (ensure you have the rights to redistribute if publishing).
+- Sounds and images included in `img/` and `SFX/`.
 - License: All rights reserved.
 
 
